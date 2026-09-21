@@ -1,7 +1,7 @@
 {
-  "version": "1.2.19",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.19/boT.exe",
-  "notes": "UPD",
+  "version": "1.2.20",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.20/boT.exe",
+  "notes": "Added apples counter and target distance check",
   "required": false,
-  "sha256": "f048f807a4faa22c3e3d750cecfe7c3005f52d8ef129335233f869bee7abd44d"
+  "sha256": "3051ea6b48deb8abec47545d358e694580959b8b8c101174bf6faffff09de3d7"
 }
