@@ -1,7 +1,7 @@
 {
-  "version": "1.2.20",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.20/boT.exe",
-  "notes": "Added apples counter and target distance check",
+  "version": "1.20.21",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.20.21/boT.exe",
+  "notes": "some bug fixes. updated automob",
   "required": false,
-  "sha256": "3051ea6b48deb8abec47545d358e694580959b8b8c101174bf6faffff09de3d7"
+  "sha256": "6bf16da302236619c86bf739f92e6f8716d47fedbfb97ad2a05f7e4000f83ee7"
 }
