@@ -1,7 +1,7 @@
 {
-  "version": "1.2.21",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.2.21/boT.exe",
-  "notes": "bug fixes and updated automob",
+  "version": "1.3.0",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.0/boT.exe",
+  "notes": "Chat translate feature and Auto bank password",
   "required": false,
-  "sha256": "6bf16da302236619c86bf739f92e6f8716d47fedbfb97ad2a05f7e4000f83ee7"
+  "sha256": "14c017d38b789e1a57aec00879083726c4868c87fe57d47ee54221d44547792a"
 }
