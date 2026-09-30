@@ -1,7 +1,7 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.5/boT.exe",
-  "notes": "Autopathing for MFJ",
+  "version": "1.3.6",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.6/boT.exe",
+  "notes": "added discord link",
   "required": false,
-  "sha256": "c2f4e9eb69d90c52d8ba9378a793f7d0ac168fcf85dd4e279939fbad14ba402c"
+  "sha256": "71a7bf2f57db13de99197e61c2a2cbc6a84d53c683da7e0a40a85f795125b848"
 }
