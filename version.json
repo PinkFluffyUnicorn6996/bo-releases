@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.4/boT.exe",
-  "notes": "Added autochest and autodeath. fixed target distance",
+  "version": "1.3.5",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.5/boT.exe",
+  "notes": "Autopathing for MFJ",
   "required": false,
-  "sha256": "aeb1a2ce446352d7ee2f7554c01de4d07420dc54f2145603f9c5f223839c5063"
+  "sha256": "c2f4e9eb69d90c52d8ba9378a793f7d0ac168fcf85dd4e279939fbad14ba402c"
 }
