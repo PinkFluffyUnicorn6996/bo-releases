@@ -1,7 +1,7 @@
 {
-  "version": "1.3.6",
-  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.6/boT.exe",
-  "notes": "added discord link",
+  "version": "1.3.7",
+  "url": "https://github.com/eugenelightman/bo-releases/releases/download/v1.3.7/boT.exe",
+  "notes": "Added Formation - saves position of every char, and then with one click places them to the saved position",
   "required": false,
-  "sha256": "71a7bf2f57db13de99197e61c2a2cbc6a84d53c683da7e0a40a85f795125b848"
+  "sha256": "c575454f605071c5bc61ffe5baa9f8e9d4363760725e0de58aa90bb69318e5f9"
 }
