@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.3/boT.exe",
-  "notes": "debug for windows detection",
+  "version": "1.4.4",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.4/boT.exe",
+  "notes": "auto-detection fix",
   "required": false,
-  "sha256": "909689e7686f7853a7ae3d03e8da70bb1435e726ed51ca9d7bafc0ad99674ad0"
+  "sha256": "07b27a1c484a161b501adc6a15eca66a9295cf29d7549f086328ef6c26e89c9c"
 }
