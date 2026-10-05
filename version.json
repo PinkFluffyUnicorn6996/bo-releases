@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.2/boT.exe",
-  "notes": "new window hook up method",
+  "version": "1.4.3",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.3/boT.exe",
+  "notes": "debug for windows detection",
   "required": false,
   "sha256": "909689e7686f7853a7ae3d03e8da70bb1435e726ed51ca9d7bafc0ad99674ad0"
 }
