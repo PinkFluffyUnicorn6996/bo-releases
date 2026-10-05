@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.1/boT.exe",
-  "notes": "Added discord link",
+  "version": "1.4.2",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.2/boT.exe",
+  "notes": "new window hook up method",
   "required": false,
-  "sha256": "83c3ed592d680356c5898a8b0b16d9294cbaac3fbce67e76ca0fa30e29b1f75d"
+  "sha256": "909689e7686f7853a7ae3d03e8da70bb1435e726ed51ca9d7bafc0ad99674ad0"
 }
