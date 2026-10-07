@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.4/boT.exe",
-  "notes": "auto-detection fix",
+  "version": "1.4.5",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.5/boT.exe",
+  "notes": "Added quick TP button. Monitor swap places windows on top of other apps. Shrunk folded state.",
   "required": false,
-  "sha256": "07b27a1c484a161b501adc6a15eca66a9295cf29d7549f086328ef6c26e89c9c"
+  "sha256": "14517777cc07cc9d8e30e4bf6a4474aacb1c088efdce70ef75c896df42c02146"
 }
