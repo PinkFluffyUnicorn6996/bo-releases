@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.5/boT.exe",
-  "notes": "Added quick TP button. Monitor swap places windows on top of other apps. Shrunk folded state.",
+  "version": "1.4.6",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.6/boT.exe",
+  "notes": "Guardian scrolls tracker. Copy and lock UI+resolution feature (located in settings>settings tab).",
   "required": false,
-  "sha256": "14517777cc07cc9d8e30e4bf6a4474aacb1c088efdce70ef75c896df42c02146"
+  "sha256": "769181774a667ce60d8e3e8c741eb7427332ed3d454c82dc5f43a681d48d3eb7"
 }
