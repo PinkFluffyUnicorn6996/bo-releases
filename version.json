@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.6/boT.exe",
-  "notes": "Guardian scrolls tracker. Copy and lock UI+resolution feature (located in settings>settings tab).",
+  "version": "1.4.7",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.7/boT.exe",
+  "notes": "Added auto refine. works perfect.",
   "required": false,
-  "sha256": "769181774a667ce60d8e3e8c741eb7427332ed3d454c82dc5f43a681d48d3eb7"
+  "sha256": "b0d732343f197ea48fd147c4bac06c8ee703bbd3077b1a47797f1d39829e9804"
 }
