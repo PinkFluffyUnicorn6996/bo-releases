@@ -1,7 +1,7 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.7/boT.exe",
-  "notes": "Added auto refine. works perfect.",
+  "version": "1.4.8",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.4.8/boT.exe",
+  "notes": "Apple counter now works on both russian and english client. All functions work on both.",
   "required": false,
-  "sha256": "b0d732343f197ea48fd147c4bac06c8ee703bbd3077b1a47797f1d39829e9804"
+  "sha256": "c3c3050a409d9eede7bec7f0f7eae0a70a7ec65963656123033aee73e067f04a"
 }
