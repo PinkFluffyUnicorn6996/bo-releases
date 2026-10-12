@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.0/boT.exe",
-  "notes": "Added Beast status",
+  "version": "1.5.1",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.1/boT.exe",
+  "notes": "Hotkey for autopot/autoheal. Click on beast timer to share in the chat.",
   "required": false,
-  "sha256": "689aa5fada2b1ce42cc443c4978028282f0414b1975e4a0e05dbfa31a062d368"
+  "sha256": "9b09fd89838cae68b8e1240e8dd7ab6a958494e66254a7e5b4aab7e48193f82c"
 }
