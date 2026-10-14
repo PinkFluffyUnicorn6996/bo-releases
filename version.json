@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.2/boT.exe",
-  "notes": "Beast status update is working smooth and fast now",
+  "version": "1.5.3",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.3/boT.exe",
+  "notes": "Automob is much better now. AutoAssist option. refined AutoPot. +new feature - multi control",
   "required": false,
-  "sha256": "b7162478dd9415ca9118df129cd106ca273a417d5d0a4b882d12ebab600e66fd"
+  "sha256": "5b49d160db49374c81e31e6cd1abb61d6257a80ae8c45dec84faff7eef7ee2a9"
 }
