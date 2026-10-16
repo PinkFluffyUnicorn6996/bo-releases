@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.3/boT.exe",
-  "notes": "Automob is much better now. AutoAssist option. refined AutoPot. +new feature - multi control",
+  "version": "1.5.4",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.4/boT.exe",
+  "notes": "MultiControl auto align characters WIP don't use it yet. AutoSwap works perfect now",
   "required": false,
-  "sha256": "5b49d160db49374c81e31e6cd1abb61d6257a80ae8c45dec84faff7eef7ee2a9"
+  "sha256": "eeee40f2df593a6373674946ea42225e11a07baa2070dc1821c0b7515fc89c74"
 }
