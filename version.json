@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.4/boT.exe",
-  "notes": "MultiControl auto align characters WIP don't use it yet. AutoSwap works perfect now",
+  "version": "1.5.5",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.5/boT.exe",
+  "notes": "improved autoheal and autopots. when hp=0 autopots own't spam click. also big change to tiger form macro",
   "required": false,
-  "sha256": "eeee40f2df593a6373674946ea42225e11a07baa2070dc1821c0b7515fc89c74"
+  "sha256": "4a2a2df423c63ed9f77f281d94f9c200849cbbd01d8e7069d892d1f0e644a457"
 }
