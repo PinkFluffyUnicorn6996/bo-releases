@@ -1,7 +1,7 @@
 {
-  "version": "1.5.6",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.6/boT.exe",
-  "notes": "Added sync position for MultiControl, Autoheal got smarter.",
+  "version": "1.5.7",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.7/boT.exe",
+  "notes": "Updated follow  and overall moving method",
   "required": false,
-  "sha256": "c54a02ab372c58662a83ecee36439428c6ce74db3a5852e3a36217a1294bb3ea"
+  "sha256": "f2e864b43d0f20daa005bb74164768b430aa6e8ab7d5cdb71d86f5a89e2dbf1b"
 }
