@@ -1,7 +1,7 @@
 {
-  "version": "1.5.7",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.7/boT.exe",
-  "notes": "Updated follow  and overall moving method",
+  "version": "1.5.8",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.8/boT.exe",
+  "notes": "kinda downgrade. Bestial Onslaught Tool was not ready for this. Reverted most of it to legacy.",
   "required": false,
-  "sha256": "f2e864b43d0f20daa005bb74164768b430aa6e8ab7d5cdb71d86f5a89e2dbf1b"
+  "sha256": "2d8ea2972c8caa31d849ae1759d004b3db0c7a9b01cb53e75bbb1055bfa54c93"
 }
