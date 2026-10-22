@@ -1,7 +1,7 @@
 {
-  "version": "1.5.8",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.8/boT.exe",
-  "notes": "kinda downgrade. Bestial Onslaught Tool was not ready for this. Reverted most of it to legacy.",
+  "version": "1.5.10",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.10/boT.exe",
+  "notes": "Bug fixes",
   "required": false,
-  "sha256": "2d8ea2972c8caa31d849ae1759d004b3db0c7a9b01cb53e75bbb1055bfa54c93"
+  "sha256": "de63938cc61fb95450088b1b80991d08eca519667785388c01add45d2f4815ab"
 }
