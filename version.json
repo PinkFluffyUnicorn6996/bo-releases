@@ -1,7 +1,7 @@
 {
-  "version": "1.5.10",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.10/boT.exe",
-  "notes": "Bug fixes",
+  "version": "1.5.11",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.11/Bestial.exe",
+  "notes": "A lot of changes to base logic",
   "required": false,
-  "sha256": "de63938cc61fb95450088b1b80991d08eca519667785388c01add45d2f4815ab"
+  "sha256": "6b09e01ad72a2db04c01d45fe7f5139972f38149d04af2b741757509dbc46536"
 }
