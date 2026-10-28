@@ -1,7 +1,7 @@
 {
-  "version": "1.5.12",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.12/Bestial.exe",
-  "notes": "Paccket function for wep bugs, auto window rename",
+  "version": "1.5.13",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.13/Bestial.exe",
+  "notes": "autologin",
   "required": false,
-  "sha256": "896d6bc9037304feabba6c6b8508a08a6f994477b183534465dd5f3218cf35bb"
+  "sha256": "ccf6de7a65bfc138eaa0e128bed11a59684ff5239fdc56ed531328710098875b"
 }
