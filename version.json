@@ -1,7 +1,7 @@
 {
-  "version": "1.5.13",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.13/Bestial.exe",
-  "notes": "autologin",
+  "version": "1.5.14",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.14/Bestial.exe",
+  "notes": "Enhanced RVA resolver and added manual baseaddress input",
   "required": false,
-  "sha256": "ccf6de7a65bfc138eaa0e128bed11a59684ff5239fdc56ed531328710098875b"
+  "sha256": "5fb2a727b703c6d5ef47f871a398581ac4c7101f8cbe8bd76238ecfc1084af2f"
 }
