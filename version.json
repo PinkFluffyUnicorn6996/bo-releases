@@ -1,7 +1,7 @@
 {
-  "version": "1.5.15",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.15/Bestial.exe",
-  "notes": "autologin update",
+  "version": "1.5.16",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.16/Bestial.exe",
+  "notes": "Updates macroses - now can use packets for skills. so basic macroses - switch gear-use packet-switch back would work",
   "required": false,
-  "sha256": "42fceaaf4b863e1ec8c9880d8f54b74455ed686cdb5371bc68cfe47969d734ec"
+  "sha256": "83187655aca70b52ce43871f38e2832e3423cfef46c44103371936daf6de1303"
 }
