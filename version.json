@@ -1,7 +1,7 @@
 {
-  "version": "1.5.16",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.16/Bestial.exe",
-  "notes": "Updates macroses - now can use packets for skills. so basic macroses - switch gear-use packet-switch back would work",
+  "version": "1.5.17",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.17/Bestial.exe",
+  "notes": "MFJ autopather update and added AutoPurify",
   "required": false,
-  "sha256": "83187655aca70b52ce43871f38e2832e3423cfef46c44103371936daf6de1303"
+  "sha256": "34d523ec4d54c41e2454ddea78d6594a6a43a4e55c4af51c78d7fe114d4f7fd6"
 }
