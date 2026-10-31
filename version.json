@@ -1,7 +1,7 @@
 {
-  "version": "1.5.17",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.17/Bestial.exe",
-  "notes": "MFJ autopather update and added AutoPurify",
+  "version": "1.5.18",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.18/Bestial.exe",
+  "notes": "Territory autobid. Updated autopath in MFJ",
   "required": false,
-  "sha256": "34d523ec4d54c41e2454ddea78d6594a6a43a4e55c4af51c78d7fe114d4f7fd6"
+  "sha256": "a8707fd09cf01697c7fdb5fb98716d7b80126b48f6ebcf14d0f8b9c5bcbe4940"
 }
