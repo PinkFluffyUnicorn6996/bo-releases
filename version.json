@@ -1,7 +1,7 @@
 {
-  "version": "1.5.18",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.18/Bestial.exe",
-  "notes": "Territory autobid. Updated autopath in MFJ",
+  "version": "1.5.20",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.20/Bestial.exe",
+  "notes": "Added AutoWQ, AutoVeno, PartyMonitor updated AutoMine, AutoMob, AutoChest and ChatTranslator)",
   "required": false,
-  "sha256": "a8707fd09cf01697c7fdb5fb98716d7b80126b48f6ebcf14d0f8b9c5bcbe4940"
+  "sha256": "4b572497a235e6b60eb8eec7b63d8d06e807127ef97c516ef0cd2f4477ff3cfb"
 }
