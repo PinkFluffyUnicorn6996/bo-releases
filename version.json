@@ -1,7 +1,7 @@
 {
-  "version": "1.5.21",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.21/Bestial.exe",
-  "notes": "upd",
+  "version": "1.5.22",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.22/Bestial.exe",
+  "notes": "Updated chat translator. Now it's perfect.",
   "required": false,
-  "sha256": "726e2681435c10c52f8723ed44cdaf653549bac36c14a2c6c996beac0b857759"
+  "sha256": "0017972a5661e679d43ca6cefa910b041288a92430c75a8dc460fadb12433de7"
 }
