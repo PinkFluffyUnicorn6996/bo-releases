@@ -1,7 +1,7 @@
 {
-  "version": "1.5.22",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.5.22/Bestial.exe",
-  "notes": "Updated chat translator. Now it's perfect.",
+  "version": "1.6.0",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.0/Bestial.exe",
+  "notes": "Reworked Multi-Control and uatorefine. AutoRefine doesnt even need refine window to be opened to work. AutoMob can revive and come back.",
   "required": false,
-  "sha256": "0017972a5661e679d43ca6cefa910b041288a92430c75a8dc460fadb12433de7"
+  "sha256": "cdcff2e9ce82d6eed8d20ac98e7284c7663a5e2582843f74727163a680a34f1f"
 }
