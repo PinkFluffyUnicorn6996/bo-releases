@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.0/Bestial.exe",
-  "notes": "Reworked Multi-Control and uatorefine. AutoRefine doesnt even need refine window to be opened to work. AutoMob can revive and come back.",
+  "version": "1.6.1",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.1/Bestial.exe",
+  "notes": "Quick flight take off and a ton of little tweaks",
   "required": false,
-  "sha256": "cdcff2e9ce82d6eed8d20ac98e7284c7663a5e2582843f74727163a680a34f1f"
+  "sha256": "9c51a18f95e999bcf2368e017151f201347e6407a5c3c6748f06027df9b497bf"
 }
