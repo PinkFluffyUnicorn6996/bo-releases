@@ -1,7 +1,7 @@
 {
-  "version": "1.6.3",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.3/Bestial.exe",
-  "notes": "Added Unequip HP/MP Charms (so you can turn them into tickets and craft new ones)",
+  "version": "1.6.4",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.4/Bestial.exe",
+  "notes": "Enhanced RVA validation and extended debug logs. Option to start accounts in pkt mode",
   "required": false,
-  "sha256": "dc8e90a335e40f29bdf31ba2bd61e8d696d3a1b6543dc466636461c709a90ce8"
+  "sha256": "fb8448f38308d9533e096af51ae99ea9869f1e369cae284444e355504b6e9942"
 }
