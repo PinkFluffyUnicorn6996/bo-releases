@@ -1,7 +1,7 @@
 {
-  "version": "1.6.4",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.4/Bestial.exe",
-  "notes": "Enhanced RVA validation and extended debug logs. Option to start accounts in pkt mode",
+  "version": "1.6.5",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.5/Bestial.exe",
+  "notes": "Python runtime for packet start is baked in. Not needed to be installed anymore.",
   "required": false,
-  "sha256": "fb8448f38308d9533e096af51ae99ea9869f1e369cae284444e355504b6e9942"
+  "sha256": "74f35c33347580dcf69da18d79b7a2265cbed7f807470e0fc8133db8bb3a0fe6"
 }
