@@ -1,7 +1,7 @@
 {
-  "version": "1.6.5",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.5/Bestial.exe",
-  "notes": "Python runtime for packet start is baked in. Not needed to be installed anymore.",
+  "version": "1.6.6",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.6/Bestial.exe",
+  "notes": "New promo code. AutoMob range, Improved debug",
   "required": false,
-  "sha256": "74f35c33347580dcf69da18d79b7a2265cbed7f807470e0fc8133db8bb3a0fe6"
+  "sha256": "59bb28ec208722b8ea4e7b3947592c9e1a6c1deb2091f38e2aeb171752783bdc"
 }
