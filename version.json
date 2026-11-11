@@ -1,7 +1,7 @@
 {
-  "version": "1.6.7",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.7/Bestial.exe",
-  "notes": "Mine Route supports more than 1 window. Monitor different DPI support (resolution scale).",
+  "version": "1.6.8",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.8/Bestial.exe",
+  "notes": "Added patch to remove doors in dungeons",
   "required": false,
-  "sha256": "f7e0041535dddf20104fd6ab8bf59179be4fcc351d5fdb9e76805759c50a5896"
+  "sha256": "504745ce072dda84f96cb27ea9a6f6a836190c0d917fed807b6ac32e5cbc4ea4"
 }
