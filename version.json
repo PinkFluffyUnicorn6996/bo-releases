@@ -1,7 +1,7 @@
 {
-  "version": "1.6.8",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.6.8/Bestial.exe",
-  "notes": "Added patch to remove doors in dungeons",
+  "version": "1.7.0",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.7.0/Bestial.exe",
+  "notes": "Extended Char_WID support (Very old accounts are supported now)",
   "required": false,
-  "sha256": "504745ce072dda84f96cb27ea9a6f6a836190c0d917fed807b6ac32e5cbc4ea4"
+  "sha256": "9c6c85ae23d779872c486f196b9a24a4431d66aa7a46e961f8ef29097b0f26bb"
 }
