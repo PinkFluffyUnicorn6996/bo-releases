@@ -1,7 +1,7 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.7.0/Bestial.exe",
-  "notes": "Extended Char_WID support (Very old accounts are supported now)",
+  "version": "1.7.1",
+  "url": "https://github.com/PinkFluffyUnicorn6996/bo-releases/releases/download/v1.7.1/Bestial.exe",
+  "notes": "corrected how the tool checkbs tiger/fox form state. now its always accurate",
   "required": false,
-  "sha256": "9c6c85ae23d779872c486f196b9a24a4431d66aa7a46e961f8ef29097b0f26bb"
+  "sha256": "f68e69e791d556aa3d9605f7e31c9503d475f87b06dcc1b53fba2184e16ec566"
 }
